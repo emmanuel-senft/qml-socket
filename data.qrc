@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/qmlwebsocketclient/main.qml</file>
+    </qresource>
+</RCC>
+
